@@ -1,0 +1,5 @@
+ev,eA,HIV Testing,
+ev,eB,HIV Testing,
+nr,eA,lower probability,eB,
+ep,eA,education,No or primary education,
+ep,eB,education,Secondary or higher education,

@@ -1,0 +1,5 @@
+ev,eA,lung cancer mortality,
+ev,eB,lung cancer mortality,
+nr,eA,higher probability,eB,
+ep,eA,sex,Male,
+ep,eB,sex,Female,

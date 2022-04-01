@@ -1,0 +1,5 @@
+ev,eA,mortality from interpersonal violence,
+ev,eB,mortality from interpersonal violence,
+nr,eA,higher probability,eB,
+ep,eA,region,Americas,
+ep,eB,region,Africa,

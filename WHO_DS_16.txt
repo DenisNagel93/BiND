@@ -1,0 +1,7 @@
+ev,eA,mortality through Alzheimer's disease,
+ev,eB,mortality through Alzheimer's disease,
+nr,eA,higher probability,eB,
+ep,eA,sex,Female,
+ep,eB,sex,Female,
+ep,eA,year,2019,
+ep,eB,year,2010,

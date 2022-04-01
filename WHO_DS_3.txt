@@ -1,0 +1,5 @@
+ev,eA,delayed care-seeking for febrile children,
+ev,eB,delayed care-seeking for febrile children,
+nr,eA,higher probability,eB,
+ep,eA,education,No or primary education,
+ep,eB,education,Secondary or higher education,

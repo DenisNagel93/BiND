@@ -1,0 +1,5 @@
+ev,eA,stroke,
+ev,eB,disability adjusted life years,
+ev,eC,ischaemic heart disease (IHD),
+nr,eA,causes,eB,
+nr,eC,causes,eB,

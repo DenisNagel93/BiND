@@ -1,0 +1,5 @@
+ev,eA,diabetes,
+ev,eB,disability adjusted life years,
+nr,eA,causes,eB,
+ep,eA,region,Americas,
+ep,eB,region,Americas,

@@ -1,0 +1,5 @@
+ev,eA,death through injury,
+ev,eB,death through injury,
+nr,eA,higher probability,eB,
+ep,eA,sex,Male,
+ep,eB,sex,Female,

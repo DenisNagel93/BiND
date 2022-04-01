@@ -1,0 +1,7 @@
+ev,eA,level of HIV testing,
+ev,eB,level of HIV testing,
+nr,eA,lower probability,eB,
+ep,eA,sex,female,
+ep,eB,sex,female,
+ep,eA,wealth,Quintile 1 (poorest),
+ep,eB,wealth,Quintile 5 (richest),
