@@ -1,0 +1,9 @@
+MatchScore: 0.6485000000000001
+hypertension(0.6365) -> "Prevalence of hypertension among adults aged 30-79 years (/home/nagel/DataNarrationsEval/Data/NCD_HYP_PREVALENCE_A.json)
+air pollution(0.6433) -> "Ambient air pollution attributable YLLs" (/home/nagel/DataNarrationsEval/Data/AIR_45.json)
+physical inactivity(0.6551) -> "Existence of operational policy/strategy/action plan to reduce physical inactivity" (/home/nagel/DataNarrationsEval/Data/NCD_CCS_PAPlan.json)
+NCD(0.5657) -> "Existence of an NCD surveillance and monitoring system in place to enable reporting against the nine global NCD targets" (/home/nagel/DataNarrationsEval/Data/NCD_CCS_SurvMonRep9NCD.json)
+obesity(0.6396) -> "Prevalence of obesity among adults (/home/nagel/DataNarrationsEval/Data/NCD_BMI_30A.json)
+tobacco use(0.658) -> "Prevalence of daily tobacco use among adults (%)" (/home/nagel/DataNarrationsEval/Data/Adult_daily_tob_use.json)
+harmful alcohol consumption(0.7413) -> "Perceived trend in alcohol-related harm and consequences" (/home/nagel/DataNarrationsEval/Data/SA_0000001467.json)
+

@@ -1,0 +1,6 @@
+MatchScore: 0.5045999999999999
+suffering communicable disease A(0.482) -> "Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths" (/home/nagel/DataNarrationsEval/Data/NCD_UNDER70.json)
+suffering noncommunicable disease A(0.5411) -> "Number of deaths attributed to non-communicable diseases (/home/nagel/DataNarrationsEval/Data/SDG_SH_DTH_RNCOM.json)
+suffering noncommunicable disease B(0.5221) -> "Number of deaths attributed to non-communicable diseases (/home/nagel/DataNarrationsEval/Data/SDG_SH_DTH_RNCOM.json)
+suffering communicable disease B(0.4732) -> "Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths" (/home/nagel/DataNarrationsEval/Data/NCD_UNDER70.json)
+

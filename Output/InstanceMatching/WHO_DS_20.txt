@@ -1,0 +1,28 @@
+eG
+(0.7316) -> "Perceived trend in alcohol-related harm and consequences" (/home/nagel/DataNarrationsEval/Data/SA_0000001467.json) (275) false
+(0.6868) -> "National surveys on heavy espisodic drinking" (/home/nagel/DataNarrationsEval/Data/SA_0000001775_ARCHIVED.json) (53) false
+(0.6853) -> "Alcohol-related injury mortality (/home/nagel/DataNarrationsEval/Data/SA_0000001472.json) (154) false
+(0.7121) -> "Alcohol-related disease mortality (/home/nagel/DataNarrationsEval/Data/SA_0000001473.json) (358) false
+(0.6868) -> "National surveys on heavy espisodic drinking" (/home/nagel/DataNarrationsEval/Data/SA_0000001775.json) (53) false
+(0.6557) -> "Alcohol use disorders (15+) (/home/nagel/DataNarrationsEval/Data/SA_0000001462.json) (582) false
+(0.6535) -> "Alcohol-related road traffic crashes (/home/nagel/DataNarrationsEval/Data/SA_0000001470_ARCHIVED.json) (320) false
+(0.6856) -> "Data collected on harm from alcohol at workplace" (/home/nagel/DataNarrationsEval/Data/SA_0000001777.json) (53) false
+(0.6856) -> "Data collected on harm from alcohol at workplace" (/home/nagel/DataNarrationsEval/Data/SA_0000001777_ARCHIVED.json) (53) false
+(0.6557) -> "Alcohol use disorders (15+) (/home/nagel/DataNarrationsEval/Data/SA_0000001753_ARCHIVED.json) (180) false
+(0.6557) -> "Alcohol use disorders (15+) (/home/nagel/DataNarrationsEval/Data/SA_0000001462_ARCHIVED.json) (171) false
+(0.6535) -> "Alcohol-related road traffic crashes (/home/nagel/DataNarrationsEval/Data/SA_0000001470.json) (1005) false
+
+eC
+(0.6566) -> Prevalence of tobacco use among persons over 15 (%) (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-GPW13_9.csv) (2682) false
+
+eE
+
+eA
+
+eF
+(0.67) -> "Existence of operational policy/strategy/action plan to reduce physical inactivity" (/home/nagel/DataNarrationsEval/Data/NCD_CCS_PAPlan.json) (776) false
+
+eD
+
+eB
+

@@ -1,0 +1,4 @@
+MatchScore: 0.55735
+level of HIV testing A(0.5531) -> "Tested TB patients HIV-positive (%)" (/home/nagel/DataNarrationsEval/Data/TB_hivtest_pos_pct.json)
+level of HIV testing B(0.5616) -> "Tested TB patients HIV-positive (%)" (/home/nagel/DataNarrationsEval/Data/TB_hivtest_pos_pct.json)
+

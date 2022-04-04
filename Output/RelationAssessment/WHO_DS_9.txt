@@ -1,0 +1,83 @@
+Mortality rate attributed to unintentional poisoning (per 100 000 population) (366) lower probability Mortality rate attributed to unintentional poisoning (per 100 000 population) (366) -> -1.0
+"Mortality rate attributed to unintentional poisoning (per 100 000 population)" (583) lower probability Mortality rate attributed to unintentional poisoning (per 100 000 population) (366) -> -1.0
+"Mortality rate attributed to unintentional poisoning (per 100 000 population)" (583) lower probability "Mortality rate attributed to unintentional poisoning (per 100 000 population)" (583) -> 0.8554216867469879
+Mortality rate attributed to unintentional poisoning (per 100 000 population) (366) lower probability "Mortality rate attributed to unintentional poisoning (per 100 000 population)" (583) -> -1.0
+"Number of deaths" (24) lower probability "Number of deaths" (13089) -> -1.0
+"Number of deaths" (24) lower probability "Estimates of rates of homicides per 100 000 population" (585) -> -1.0
+"Estimates of rates of homicides per 100 000 population" (585) lower probability "Estimates of rates of homicides per 100 000 population" (585) -> 0.7881188118811882
+"Estimates of rates of homicides per 100 000 population" (585) lower probability "Number of deaths" (104763) -> -1.0
+"Estimates of number of homicides" (582) lower probability "Estimates of rates of homicides per 100 000 population" (585) -> -1.0
+"Number of deaths" (24) lower probability "Estimates of number of homicides" (582) -> -1.0
+"Number of deaths" (27) lower probability "Number of deaths" (13089) -> -1.0
+"Estimates of number of homicides" (582) lower probability "Number of deaths" (13089) -> -1.0
+"Estimates of number of homicides" (582) lower probability "Estimates of number of homicides" (582) -> -1.0
+"Estimates of rates of homicides per 100 000 population" (585) lower probability "Number of deaths" (13089) -> -1.0
+"Number of deaths" (24) lower probability "Number of deaths" (104763) -> -1.0
+"Number of deaths" (27) lower probability "Estimates of number of homicides" (582) -> -1.0
+"Number of deaths" (27) lower probability "Number of deaths" (104763) -> -1.0
+"Estimates of rates of homicides per 100 000 population" (585) lower probability "Estimates of number of homicides" (582) -> -1.0
+"Estimates of number of homicides" (582) lower probability "Number of deaths" (104763) -> -1.0
+"Number of deaths" (27) lower probability "Estimates of rates of homicides per 100 000 population" (585) -> -1.0
+Suicide mortality rate (per 100 000 population) [Female] (1464) lower probability Suicide mortality rate (per 100 000 population) [Male] (1464) -> -1.0
+Suicide mortality rate (per 100 000 population) (1464) lower probability Suicide mortality rate (per 100 000 population) (1464) -> -1.0
+Suicide mortality rate (per 100 000 population) [Female] (1464) lower probability Suicide mortality rate (per 100 000 population) (366) -> -1.0
+No successful binding!
+Suicide mortality rate (per 100 000 population) [Male] (1464) lower probability Suicide mortality rate (per 100 000 population) [Female] (1464) -> -1.0
+No successful binding!
+No successful binding!
+Suicide mortality rate (per 100 000 population) [Male] (1464) lower probability Suicide mortality rate (per 100 000 population) (366) -> -1.0
+Suicide mortality rate (per 100 000 population) (366) lower probability Suicide mortality rate (per 100 000 population) [Female] (1464) -> -1.0
+Suicide mortality rate (per 100 000 population) (366) lower probability Suicide mortality rate (per 100 000 population) [Male] (1464) -> -1.0
+Suicide mortality rate (per 100 000 population) (366) lower probability Suicide mortality rate (per 100 000 population) (1464) -> -1.0
+Suicide mortality rate (per 100 000 population) [Female] (1464) lower probability Suicide mortality rate (per 100 000 population) [Female] (1464) -> -1.0
+Suicide mortality rate (per 100 000 population) (366) lower probability Suicide mortality rate (per 100 000 population) (366) -> -1.0
+Suicide mortality rate (per 100 000 population) (1464) lower probability Suicide mortality rate (per 100 000 population) (366) -> -1.0
+Suicide mortality rate (per 100 000 population) (1464) lower probability Suicide mortality rate (per 100 000 population) [Female] (1464) -> -1.0
+"Crude suicide rates (per 100 000 population)" (6622) lower probability "Crude suicide rates (per 100 000 population)" (582) -> -1.0
+No successful binding!
+Suicide mortality rate (per 100 000 population) [Male] (1464) lower probability Suicide mortality rate (per 100 000 population) [Male] (1464) -> -1.0
+No successful binding!
+Suicide mortality rate (per 100 000 population) (366) lower probability "Age-standardized suicide rates (per 100 000 population)" (582) -> -1.0
+No successful binding!
+"Age-standardized suicide rates (per 100 000 population)" (583) lower probability "Age-standardized suicide rates (per 100 000 population)" (582) -> -1.0
+Suicide mortality rate (per 100 000 population) [Male] (1464) lower probability Suicide mortality rate (per 100 000 population) (1464) -> -1.0
+No successful binding!
+Suicide mortality rate (per 100 000 population) (1464) lower probability Suicide mortality rate (per 100 000 population) [Male] (1464) -> -1.0
+"Crude suicide rates (per 100 000 population)" (6622) lower probability Suicide mortality rate (per 100 000 population) (366) -> -1.0
+No successful binding!
+"Crude suicide rates (per 100 000 population)" (6622) lower probability "Age-standardized suicide rates (per 100 000 population)" (582) -> -1.0
+Suicide mortality rate (per 100 000 population) (366) lower probability "Crude suicide rates (per 100 000 population)" (582) -> -1.0
+No successful binding!
+"Age-standardized suicide rates (per 100 000 population)" (583) lower probability "Crude suicide rates (per 100 000 population)" (582) -> -1.0
+Suicide mortality rate (per 100 000 population) [Female] (1464) lower probability Suicide mortality rate (per 100 000 population) (1464) -> -1.0
+No successful binding!
+"Age-standardized suicide rates (per 100 000 population)" (583) lower probability Suicide mortality rate (per 100 000 population) (366) -> -1.0
+No successful binding!
+No successful binding!
+"Estimated road traffic death rate (per 100 000 population)" (588) lower probability "Road traffic crash deaths (388) -> -1.0
+"Estimated number of road traffic deaths" (583) lower probability "Road traffic crash deaths (52) -> -1.0
+"Distribution of road traffic deaths by type of road user (%)" (655) lower probability "Estimated number of road traffic deaths" (585) -> -1.0
+"Estimated road traffic death rate (per 100 000 population)" (588) lower probability "Estimated road traffic death rate (per 100 000 population)" (584) -> 0.6700201207243461
+"Estimated number of road traffic deaths" (583) lower probability "Estimated road traffic death rate (per 100 000 population)" (584) -> -1.0
+"Road traffic crash deaths (52) lower probability "Road traffic crash deaths (388) -> -1.0
+"Road traffic crash deaths (388) lower probability "Road traffic crash deaths (388) -> -1.0
+"Road traffic crash deaths (388) lower probability "Estimated number of road traffic deaths" (585) -> -1.0
+"Road traffic crash deaths (388) lower probability "Distribution of road traffic deaths by type of road user (%)" (655) -> -1.0
+"Distribution of road traffic deaths by type of road user (%)" (655) lower probability "Distribution of road traffic deaths by type of road user (%)" (655) -> -1.0
+"Estimated number of road traffic deaths" (583) lower probability "Road traffic crash deaths (388) -> -1.0
+"Road traffic crash deaths (52) lower probability "Distribution of road traffic deaths by type of road user (%)" (655) -> -1.0
+"Road traffic crash deaths (52) lower probability "Estimated road traffic death rate (per 100 000 population)" (584) -> -1.0
+"Road traffic crash deaths (52) lower probability "Road traffic crash deaths (52) -> -1.0
+"Road traffic crash deaths (52) lower probability "Estimated number of road traffic deaths" (585) -> -1.0
+"Estimated road traffic death rate (per 100 000 population)" (588) lower probability "Estimated number of road traffic deaths" (585) -> -1.0
+"Distribution of road traffic deaths by type of road user (%)" (655) lower probability "Road traffic crash deaths (388) -> -1.0
+"Estimated road traffic death rate (per 100 000 population)" (588) lower probability "Road traffic crash deaths (52) -> -1.0
+"Estimated number of road traffic deaths" (583) lower probability "Estimated number of road traffic deaths" (585) -> -1.0
+"Estimated road traffic death rate (per 100 000 population)" (588) lower probability "Distribution of road traffic deaths by type of road user (%)" (655) -> -1.0
+"Distribution of road traffic deaths by type of road user (%)" (655) lower probability "Estimated road traffic death rate (per 100 000 population)" (584) -> -1.0
+"Distribution of road traffic deaths by type of road user (%)" (655) lower probability "Road traffic crash deaths (52) -> -1.0
+"Road traffic crash deaths (388) lower probability "Road traffic crash deaths (52) -> -1.0
+"Estimated number of road traffic deaths" (583) lower probability "Distribution of road traffic deaths by type of road user (%)" (655) -> -1.0
+"Road traffic crash deaths (388) lower probability "Estimated road traffic death rate (per 100 000 population)" (584) -> -1.0
+"Mortality rate attributed to unintentional poisoning (per 100 000 population)" /home/nagel/DataNarrationsEval/Data/SDGPOISON.json
+"Estimates of rates of homicides per 100 000 population" /home/nagel/DataNarrationsEval/Data/VIOLENCE_HOMICIDERATE.json

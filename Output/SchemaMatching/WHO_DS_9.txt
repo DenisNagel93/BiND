@@ -1,0 +1,10 @@
+MatchScore: 0.656675
+suicide mortality A(0.6881) -> "Age-standardized suicide rates (per 100 000 population)" (/home/nagel/DataNarrationsEval/Data/MH_12.json)
+mortality through unintentional poisining B(0.5333) -> "Cause of death" (/home/nagel/DataNarrationsEval/Data/MORT_200.json)
+homicide mortality B(0.6554) -> "Estimates of rates of homicides per 100 000 population" (/home/nagel/DataNarrationsEval/Data/VIOLENCE_HOMICIDERATE.json)
+homicide mortality A(0.6705) -> "Estimates of number of homicides" (/home/nagel/DataNarrationsEval/Data/VIOLENCE_HOMICIDENUM.json)
+mortality through unintentional poisining A(0.5692) -> "All-cause inpatient deaths" (/home/nagel/DataNarrationsEval/Data/MALARIA_15031.json)
+mortality through road traffic B(0.7296) -> "Estimated road traffic death rate (per 100 000 population)" (/home/nagel/DataNarrationsEval/Data/RS_198.json)
+mortality through road traffic A(0.7473) -> "Estimated road traffic death rate (per 100 000 population)" (/home/nagel/DataNarrationsEval/Data/RS_198.json)
+suicide mortality B(0.66) -> "Crude suicide rates (per 100 000 population)" (/home/nagel/DataNarrationsEval/Data/SDGSUICIDE.json)
+

@@ -1,0 +1,4 @@
+MatchScore: 0.7043999999999999
+burden of disease(0.5525) -> "Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths" (/home/nagel/DataNarrationsEval/Data/NCD_UNDER70.json)
+density of health workers(0.8563) -> "Other health workers density (per 1000 population)" (/home/nagel/DataNarrationsEval/Data/HRH_30.json)
+

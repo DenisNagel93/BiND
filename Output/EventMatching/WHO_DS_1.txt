@@ -1,0 +1,20 @@
+eB
+(0.6649) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_42.csv)
+(0.6649) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_51.csv)
+(0.6649) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_61.csv)
+(0.6649) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_58.csv)
+(0.6571) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_59.csv)
+(0.6571) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_34.csv)
+(0.6571) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_66.csv)
+(0.6571) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_1.csv)
+
+eA
+(0.6649) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_42.csv)
+(0.6649) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_51.csv)
+(0.6649) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_61.csv)
+(0.6649) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_58.csv)
+(0.6571) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_59.csv)
+(0.6571) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_34.csv)
+(0.6571) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_66.csv)
+(0.6571) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_1.csv)
+

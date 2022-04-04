@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataNarrations:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataNarrations_jar</output-path>
+    <root id="archive" name="DataNarrations.jar">
+      <element id="module-output" name="DataNarrations" />
+    </root>
+  </artifact>
+</component>

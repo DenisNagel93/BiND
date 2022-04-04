@@ -1,0 +1,4 @@
+MatchScore: 0.4772
+household overcrowding(0.5111) -> "Beds in community residential facilities (per 100 (/home/nagel/DataNarrationsEval/Data/MH_15.json)
+preventative COVID-19 behaviours(0.4433) -> "Prevention programmes" (/home/nagel/DataNarrationsEval/Data/RSUD_600.json)
+

@@ -1,0 +1,20 @@
+eA
+(0.6955) -> Testing for HIV and receiving results in the last 12 months among sexually active young people (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_56.csv) (122) true
+-education(1.0) -> Education (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_56.csv)
+(0.6931) -> Testing for HIV and receiving results in the last 12 months among sexually active young people (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_36.csv) (113) true
+-education(1.0) -> Education (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_36.csv)
+(0.7225) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_51.csv) (124) true
+-education(1.0) -> Education (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_51.csv)
+(0.7164) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_34.csv) (106) true
+-education(1.0) -> Education (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_34.csv)
+
+eB
+(0.6931) -> Testing for HIV and receiving results in the last 12 months among sexually active young people (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_36.csv) (113) true
+-education(1.0) -> Education (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_36.csv)
+(0.7225) -> Testing for HIV and receiving results (ever) (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_51.csv) (124) true
+-education(1.0) -> Education (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_51.csv)
+(0.6955) -> Testing for HIV and receiving results in the last 12 months among sexually active young people (%) [Females] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_56.csv) (122) true
+-education(1.0) -> Education (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_56.csv)
+(0.7164) -> Testing for HIV and receiving results (ever) (%) [Males] (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_34.csv) (106) true
+-education(1.0) -> Education (/home/nagel/DataNarrationsEval/Data/HEATPlus-repository-HIV_34.csv)
+
