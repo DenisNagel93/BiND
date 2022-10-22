@@ -1,0 +1,5 @@
+S,R,E,P,HWF_0001.json
+R,HWF_0025.json
+{
+cl,event1,min,true,True,
+}

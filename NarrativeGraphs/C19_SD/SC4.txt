@@ -1,0 +1,8 @@
+ev,eA,new confirmed cases,
+ev,eB,new confirmed cases,
+cl,eA,value,6010,
+ep,eA,month,April,
+ep,eA,country,Denmark,
+ep,eB,month,March,
+ep,eB,country,Denmark,
+cl2,eA,higher,eB,

@@ -1,0 +1,17 @@
+S,R,E,P,SDGHIV.json
+S,R,E,P,MDG_0000000020.json
+S,R,E,P,SDGMALARIA.json
+R,E,P,HEATPlus-repository-GPW13_15.csv
+R,E,P,HEATPlus-repository-GPW13_35.csv
+R,E,P,HEATPlus-repository-GPW13_41.csv
+R,E,P,HEATPlus-repository-GPW13_67.csv
+R,E,P,HEATPlus-repository-GPW13_95.csv
+R,E,P,HEATPlus-repository-HIV-yearly_2.csv
+R,E,P,TB_e_inc_tbhiv_100k.json
+E,P,HEATPlus-repository-TB_11.csv
+E,P,HEATPlus-repository-HIV_6.csv
+{
+nr,eA,higher,eB,True,
+nr,eC,higher,eD,True,
+nr,eE,higher,eF,True,
+}

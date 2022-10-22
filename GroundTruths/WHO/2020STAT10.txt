@@ -1,0 +1,7 @@
+S,R,E,P,SDGHIV.json
+R,HEATPlus-repository-GPW13_41.csv
+R,HEATPlus-repository-HIV-yearly_2.csv
+{
+nr,event1,lower,event2,True,
+nr,event2,lower,event3,True,
+}

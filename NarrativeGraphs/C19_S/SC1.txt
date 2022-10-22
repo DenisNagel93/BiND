@@ -1,0 +1,4 @@
+ev,eA,recovered cases,
+cl,eA,value,1005,
+ep,eA,country,Sweden,
+ep,eA,month,April,

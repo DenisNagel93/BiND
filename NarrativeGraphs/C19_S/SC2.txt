@@ -1,0 +1,4 @@
+ev,eA,total death cases,
+cl,eA,value,0,
+ep,eA,country,Japan,
+ep,eA,month,January,

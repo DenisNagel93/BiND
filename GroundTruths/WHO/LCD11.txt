@@ -1,0 +1,6 @@
+S,R,E,P,GBD_DALYRTAGE.json
+R,GHE_DALYRATE.json
+R,GHE_DALYNUM.json
+{
+nr,event1,lower,event2,True,
+}

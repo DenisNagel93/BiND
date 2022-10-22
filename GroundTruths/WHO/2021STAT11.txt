@@ -1,0 +1,7 @@
+S,R,E,P,WHOSIS_000002.json
+S,R,E,P,WHOSIS_000007.json
+{
+cl,event1,value,58.3,True,
+cl,event2,value,63.7,True,
+nr,event1,lower,event2,True,
+}

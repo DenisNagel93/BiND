@@ -1,0 +1,4 @@
+TF,iowa corn cy - hawk series.5.csv,
+{
+cl,eA,max,true,False,
+}

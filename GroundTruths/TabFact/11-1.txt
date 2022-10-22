@@ -1,0 +1,4 @@
+TF,1979 world figure skating championships.2.csv,
+{
+cl2,eA,lower,eB,True,
+}

@@ -1,0 +1,6 @@
+TF,united states national rugby union team.2.csv,
+{
+cl,eA,max,true,False,
+cl,eB,max,true,False,
+cl,eB,tie,1,False,
+}

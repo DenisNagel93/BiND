@@ -1,0 +1,6 @@
+S,R,E,P,WHOSIS_000002.json
+S,R,E,P,WHOSIS_000007.json
+R,HEATPlus-repository-GPW13_120.csv,
+{
+nr,event1,lower,event2,True,
+}

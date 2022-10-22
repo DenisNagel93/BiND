@@ -1,0 +1,5 @@
+TF,dorado group.csv,
+{
+cl,eA,value,4 hour 8 minute 58.1 second,False,
+cl,eA,min,true,False,
+}

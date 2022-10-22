@@ -1,0 +1,19 @@
+S,R,E,P,RS_198.json
+S,R,E,P,MH_12.json
+S,R,E,P,VIOLENCE_HOMICIDERATE.json
+S,R,E,P,SDGPOISON.json
+R,E,P,HEATPlus-repository-GPW13_65.csv
+R,E,P,HEATPlus-repository-GPW13_76.csv
+R,E,P,HEATPlus-repository-GPW13_99.csv
+R,E,P,HEATPlus-repository-GPW13_107.csv
+R,E,P,HEATPlus-repository-GPW13_114.csv
+R,E,P,SA_0000001788.json
+R,E,P,SA_0000001788_ARCHIVED.json
+R,E,P,SDGSUICIDE.json
+E,P,OCC_21.json
+{
+nr,eA,lower probability,eB,True,
+nr,eC,lower probability,eD,True,
+nr,eE,lower probability,eF,True,
+nr,eG,lower probability,eH,True,
+}

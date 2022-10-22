@@ -1,0 +1,4 @@
+TF,rafael márquez.1.csv,
+{
+cl,eA,value,3,True,
+}

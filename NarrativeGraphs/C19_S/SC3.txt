@@ -1,0 +1,8 @@
+ev,eA,new death cases,
+ev,eB,new death cases,
+cl,eA,value,0,
+ep,eA,month,March,
+ep,eA,country,Senegal,
+ep,eB,month,February,
+ep,eB,country,Senegal,
+cl2,eA,equal,eB,

@@ -1,0 +1,4 @@
+SC,new_deaths.csv,
+{
+cl,eA,value,10000,False,
+}

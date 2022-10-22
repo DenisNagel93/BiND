@@ -1,0 +1,19 @@
+S,R,E,P,MDG_0000000007.json
+R,E,P,HEAT-database_13.csv
+R,E,P,HEAT-database_15.csv
+R,E,P,HEAT-database_44.csv
+R,E,P,HEAT-database_50.csv
+R,E,P,HEAT-database_206.csv
+R,E,P,HEAT-database_212.csv
+R,E,P,HEAT-database_234.csv
+R,E,P,HEATPlus-repository-GPW13_12.csv
+R,E,P,HEATPlus-repository-GPW13_14.csv
+R,E,P,HEATPlus-repository-GPW13_46.csv
+R,E,P,HEATPlus-repository-GPW13_55.csv
+R,E,P,HEATPlus-repository-GPW13_104.csv
+R,E,P,HEATPlus-repository-GPW13_108.csv
+R,E,P,HEATPlus-repository-GPW13_126.csv
+R,E,P,u5mr.json
+{
+nr,eA,higher probability,eB,True,
+}

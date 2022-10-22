@@ -1,0 +1,4 @@
+TF,1976 world junior figure skating championships.2.csv,
+{
+cl,eA,value,<5,False,
+}

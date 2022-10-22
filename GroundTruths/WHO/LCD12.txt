@@ -1,0 +1,6 @@
+S,R,E,P,HIV_0000000006
+{
+cl,event1,value,>1000000,True,
+cl,event2,value,435000,True,
+nr,event2,lower,event1,True,
+}

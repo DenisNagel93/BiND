@@ -1,0 +1,4 @@
+ev,eA,new deaths,
+cl,eA,value,1000,
+ep,eA,country,Italy,
+ep,eA,day,6/14/20,

@@ -1,0 +1,8 @@
+ev,eA,total confirmed cases,
+cl,eA,value,71,
+ep,eA,month,April,
+ep,eA,country,Eswatini,
+ev,eB,total confirmed cases,
+ep,eB,month,March,
+ep,eB,country,Eswatini,
+cl2,eA,higher,eB,

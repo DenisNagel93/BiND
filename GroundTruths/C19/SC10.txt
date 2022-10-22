@@ -1,0 +1,5 @@
+SC,total_confirmed.csv,
+{
+cl,eA,value,71,False,
+cl2,eA,higher,eB,True,
+}

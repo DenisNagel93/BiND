@@ -1,0 +1,6 @@
+TF,tony lema.1.csv,
+{
+cl,eA,exists,true,True,
+cl,eB,exists,true,True,
+cl,eC,exists,true,True,
+}

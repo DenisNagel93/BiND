@@ -1,0 +1,5 @@
+TF,2003 - 04 detroit red wings season.3.csv,
+{
+cl,eA,max,true,True,
+cl,eA,tie,>0,False,
+}

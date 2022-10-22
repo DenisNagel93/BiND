@@ -1,0 +1,6 @@
+TF,dorado group.csv,
+{
+cl,eA,value,12.9,True,
+cl,eA,max,true,True,
+cl,eB,value,12.8,True,
+}

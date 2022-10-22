@@ -1,0 +1,5 @@
+S,R,E,P,HWF_0001.json
+R,E,P,HWF_0025.json
+{
+nr,eA,lower,eB,True,
+}

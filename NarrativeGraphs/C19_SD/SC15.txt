@@ -1,0 +1,4 @@
+ev,eA,total cases,
+cl,eA,value,800,
+ep,eA,country,United States,
+ep,eA,month,June,

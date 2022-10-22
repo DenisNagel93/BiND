@@ -1,0 +1,5 @@
+SC,total_deaths.csv,
+{
+cl,eA,value,16523,True,
+cl2,eA,higher,eB,True,
+}

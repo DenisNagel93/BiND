@@ -1,0 +1,4 @@
+ev,eA,new cases,
+cl,eA,value,100000,
+ep,eA,country,United Kingdom,
+ep,eA,month,June,

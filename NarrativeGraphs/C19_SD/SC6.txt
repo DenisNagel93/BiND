@@ -1,0 +1,4 @@
+ev,eA,new confirmed cases,
+cl,eA,value,507,
+ep,eA,country,Albania,
+ep,eA,month,June,

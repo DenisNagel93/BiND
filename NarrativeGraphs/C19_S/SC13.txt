@@ -1,0 +1,8 @@
+ev,eA,total deaths,
+cl,eA,value,16523,
+ep,eA,day,4/6/,
+ep,eA,country,Italy,
+ev,eB,total deaths,
+ep,eB,day,4/5/,
+ep,eB,country,Italy,
+cl2,eA,higher,eB,

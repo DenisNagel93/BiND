@@ -1,0 +1,5 @@
+TF,2008 - 09 r.s.c. anderlecht season.3.csv,
+{
+cl,eA,value,3,True,
+cl,eB,value,11,True,
+}

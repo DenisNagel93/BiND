@@ -1,0 +1,6 @@
+S,R,E,P,PCV3.json
+{
+nr,event1,lower,event2,True,
+cl,event1,value,0.04,True,
+cl,event2,value,0.47,True,
+}

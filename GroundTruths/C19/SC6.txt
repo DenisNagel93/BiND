@@ -1,0 +1,4 @@
+SC,new_confirmed.csv,
+{
+cl,eA,value,507,False,
+}

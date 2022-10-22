@@ -1,0 +1,4 @@
+TF,1988 winter olympics.csv,
+{
+cl2,eA,higher,eB,False,
+}

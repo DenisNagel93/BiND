@@ -1,0 +1,4 @@
+TF,west berkshire brewery.csv,
+{
+cl,eA,count,2,False,
+}
