@@ -1,5 +1,0 @@
-MatchScore: 0.5941000000000001
-stroke(0.5586) -> "Provision for care of acute stroke and rehabilitation in more than 50% of public sector health facilities" (/home/nagel/DataNarrationsEval/Data/NCD_CCS_stroke.json)
-ischaemic heart disease (IHD)(0.4665) -> "Existence of operational policy/strategy/action plan for cardiovascular diseases" (/home/nagel/DataNarrationsEval/Data/NCD_CCS_CVDPlan.json)
-disability adjusted life years(0.7572) -> "Disability-adjusted life years (DALYs)" (/home/nagel/DataNarrationsEval/Data/GHE_DALYNUM.json)
-

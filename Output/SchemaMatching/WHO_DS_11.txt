@@ -1,5 +1,0 @@
-MatchScore: 0.6
-disability adjusted life years(0.7572) -> "Disability-adjusted life years (DALYs)" (/home/nagel/DataNarrationsEval/Data/GHE_DALYNUM.json)
-lower respiratory infection(0.5083) -> "New cases: Pulmonary (/home/nagel/DataNarrationsEval/Data/TB_new_snsuoth.json)
-neonatal conditions(0.5345) -> "Neonatal mortality rate (per 1000 live births)" (/home/nagel/DataNarrationsEval/Data/WHOSIS_000003.json)
-

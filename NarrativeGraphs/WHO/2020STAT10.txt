@@ -1,0 +1,7 @@
+ev,event1,incidence of HIV,
+ev,event2,incidence of HIV,
+ep,event1,year,2000,
+ep,event2,year,2014,
+ep,event1,region,Europe or Eastern Mediterranean,
+ep,event2,region,Europe or Eastern Mediterranean,
+nr,event1,lower,event2,

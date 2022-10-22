@@ -1,5 +1,0 @@
-ev,eA,COVID-19 infection,
-ev,eB,COVID-19 infection,
-nr,eA,lower probability,eB,
-ep,eA,income classification,high-income,
-ep,eB,income classification,low-income,

@@ -1,0 +1,15 @@
+ev#eA#gold medals#
+ep#eA#country#italy#
+ep#eA#tournament#1988 winter olympics#
+ev#eB#gold medals#
+ep#eB#country#united states#
+ep#eB#tournament#1988 winter olympics#
+ev#eC#gold medals#
+ep#eC#country#canada#
+ep#eC#tournament#1988 winter olympics#
+ev#eD#gold medals#
+ep#eD#country#west germany#
+ep#eD#tournament#1988 winter olympics#
+cl2#eA#higher#eC#
+cl2#eA#equal#eB#
+cl2#eA#equal#eD#

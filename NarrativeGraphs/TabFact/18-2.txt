@@ -1,0 +1,6 @@
+ev#eA#points#
+ep#eA#player#galina voskoboeva#
+ep#eA#opponent#oleksandra kravets#
+ev#eB#points#
+ep#eB#player#galina voskoboeva#
+ep#eB#opponent#alice canepa#

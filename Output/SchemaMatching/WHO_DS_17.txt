@@ -1,4 +1,0 @@
-MatchScore: 0.5924499999999999
-lung cancer mortality B(0.587) -> "Age-standardized mortality rate by cause (per 100 000 population) - Cancer" (/home/nagel/DataNarrationsEval/Data/WHS2_160.json)
-lung cancer mortality A(0.5979) -> "Age-standardized mortality rate by cause (per 100 000 population) - Cancer" (/home/nagel/DataNarrationsEval/Data/WHS2_160.json)
-

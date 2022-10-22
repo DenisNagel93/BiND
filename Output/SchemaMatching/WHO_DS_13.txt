@@ -1,4 +1,0 @@
-MatchScore: 0.66615
-diabetes(0.5751) -> "Existence of a diabetes registry" (/home/nagel/DataNarrationsEval/Data/NCD_CCS_DiabetesReg.json)
-disability adjusted life years(0.7572) -> "Disability-adjusted life years (DALYs)" (/home/nagel/DataNarrationsEval/Data/GHE_DALYNUM.json)
-

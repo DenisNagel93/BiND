@@ -1,5 +1,0 @@
-ev,eA,diabetes,
-ev,eB,disability adjusted life years,
-nr,eA,causes,eB,
-ep,eA,year,2019,
-ep,eB,year,2019,

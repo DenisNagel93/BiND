@@ -1,0 +1,6 @@
+ev#eA#place#
+ep#eA#country#united states#
+ep#eA#place#9#
+ep#eA#tournament#u.s. open (golf)#
+ep#eA#year#1989#
+cl#eA#count#3#

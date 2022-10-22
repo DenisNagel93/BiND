@@ -1,0 +1,5 @@
+ev,event1,mortality from interpersonel violence,
+ev,event2,mortality from interpersonel violence,
+ep,event1,region,Americas,
+ep,event2,region,not Americas,
+nr,event1,higher,event2,

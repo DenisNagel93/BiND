@@ -1,0 +1,7 @@
+ev,event1,disability-adjusted life year from diabetes,
+ev,event2,disability-adjusted life year from diabetes,
+ep,event1,year,2000,
+ep,event2,year,2012,
+ep,event1,region,Eastern Mediterranean,
+ep,event2,region,Eastern Mediterranean,
+nr,event1,lower,event2,

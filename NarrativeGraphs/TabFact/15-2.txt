@@ -1,0 +1,13 @@
+ev#eA#time#
+ep#eA#team#utah jazz#
+ep#eA#position#guard#
+ep#eA#year#<1981#
+ep#eA#year#>1978#
+cl#eA#count#>2#
+ev#eB#time#
+ep#eB#team#utah jazz#
+ep#eB#position#guard#
+ep#eB#year#<1981#
+ep#eB#year#>1978#
+ep#eB#player#james donaldson#
+cl#eB#count#1#

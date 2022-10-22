@@ -1,0 +1,9 @@
+ev#eA#time span#
+ep#eA#player#riaan van zyl#
+ep#eA#team#united states national rugby team#
+cl#eA#max#true#
+ev#eB#number of tries#
+ep#eB#player#riaan van zyl#
+ep#eB#team#united states national rugby team#
+cl#eB#max#true#
+cl#eB#tie#1#

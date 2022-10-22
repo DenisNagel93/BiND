@@ -1,0 +1,5 @@
+ev,eA,reporting tuberculosis spread through coughing,
+ev,eB,reporting tuberculosis spread through coughing,
+ep,eA,place of residence,rural,
+ep,eB,place of residence,urban,
+nr,eA,higher,eB,

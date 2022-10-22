@@ -1,0 +1,5 @@
+ev#eA#visitor score#
+ep#eA#team#detroit red wings#
+ep#eA#season#2003 - 04#
+cl#eA#max#true#
+cl#eA#value#5#

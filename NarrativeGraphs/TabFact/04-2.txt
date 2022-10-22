@@ -1,0 +1,10 @@
+ev#eA#goal#
+ep#eA#player#matías suárez#
+ep#eA#team#r.s.c. anderlecht#
+ep#eA#season#2008 - 09#
+cl#eA#value#3#
+ev#eB#goal#
+ep#eB#player#mbark boussoufa#
+ep#eB#team#r.s.c. anderlecht#
+ep#eB#season#2008 - 09#
+cl#eB#value#11#

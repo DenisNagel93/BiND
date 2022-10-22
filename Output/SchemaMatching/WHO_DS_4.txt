@@ -1,4 +1,0 @@
-MatchScore: 0.48260000000000003
-COVID-19 infection A(0.5) -> "Children aged <5 years with ARI symptoms who took antibiotic treatment (%)" (/home/nagel/DataNarrationsEval/Data/WHS4_108.json)
-COVID-19 infection B(0.4652) -> "Number of mixed infections" (/home/nagel/DataNarrationsEval/Data/MALARIA_15040.json)
-

@@ -1,0 +1,7 @@
+ev#eA#number in series#
+ep#eA#episode#sweet dreams#
+ep#eA#series#merlin (series 2)#
+ev#eB#number in series#
+ep#eB#episode#witchfinder#
+ep#eB#series#merlin (series 2)#
+cl2#eA#higher#eB#

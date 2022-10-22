@@ -1,4 +1,0 @@
-MatchScore: 0.70765
-child mortality(0.7321) -> "Number of infant deaths" (/home/nagel/DataNarrationsEval/Data/CM_02.json)
-vaccination coverage(0.6832) -> "Full immunization coverage among one-year-olds (%)" (/home/nagel/DataNarrationsEval/Data/vfull.json)
-

@@ -1,0 +1,5 @@
+ev#eA#amount of money won#
+ep#eA#country#wales#
+ep#eA#tournament#u.s. open (golf)#
+ep#eA#year#1989#
+cl#eA#maxVal#46823#

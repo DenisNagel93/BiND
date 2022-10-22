@@ -1,0 +1,7 @@
+ev,event1,under 5 mortality rate,
+ev,event2,under 5 mortality rate,
+ep,event1,region,Africa,
+ep,event2,region,Europe,
+ep,event1,year,2018,
+ep,event1,year,2018,
+nr,event1,higher,event2,

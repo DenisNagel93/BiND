@@ -1,0 +1,5 @@
+ev,eA,density of doctors,
+ev,eB,density of doctors,
+ep,eA,region,Africa,
+ep,eB,region,Europe,
+nr,eA,lower,eB,

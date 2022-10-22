@@ -1,0 +1,11 @@
+ev#eA#goal total#
+ep#eA#goal total#3#
+ep#eA#team#r.s.c. anderlecht#
+ep#eA#season#2008 - 09#
+cl#eA#count#4#
+ev#eB#goal total#
+ep#eB#goal total#3#
+ep#eB#league#4#
+ep#eB#team#r.s.c. anderlecht#
+ep#eB#season#2008 - 09#
+cl#eB#count#4#

@@ -1,0 +1,7 @@
+ev,event1,healthy life expectancy,
+ev,event2,healthy life expectancy,
+ep,event1,year,2000,
+ep,event2,year,2019,
+cl,event1,value,58.3,
+cl,event2,value,63.7,
+nr,event1,lower,event2,

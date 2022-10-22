@@ -1,0 +1,9 @@
+ev#eA#apparent magnitude#
+ep#eA#galaxy#ngc 1796#
+ep#eA#galaxy group#dorado group#
+cl#eA#value#12.9#
+cl#eA#max#true#
+ev#eB#apparent magnitude#
+ep#eB#galaxy#ngc 1705#
+ep#eB#galaxy group#dorado group#
+cl#eB#value#12.8#

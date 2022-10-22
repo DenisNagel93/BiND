@@ -1,4 +1,0 @@
-MatchScore: 0.5859
-delayed care-seeking for febrile children B(0.5867) -> "Children aged < 5 years with pneumonia symptoms taken to a healthcare provider (%)" (/home/nagel/DataNarrationsEval/Data/WHS4_106.json)
-delayed care-seeking for febrile children A(0.5851) -> "Children aged < 5 years with pneumonia symptoms taken to a healthcare provider (%)" (/home/nagel/DataNarrationsEval/Data/WHS4_106.json)
-

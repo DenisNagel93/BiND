@@ -1,4 +1,0 @@
-MatchScore: 0.6891
-child mortality B(0.6817) -> "Number of infant deaths" (/home/nagel/DataNarrationsEval/Data/CM_02.json)
-child mortality A(0.6965) -> "Number of deaths among children ages 5 to 9 years" (/home/nagel/DataNarrationsEval/Data/CM_04.json)
-

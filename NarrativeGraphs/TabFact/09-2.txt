@@ -1,0 +1,8 @@
+ev#eA#award#
+ep#eA#award#bronze#
+ep#eA#brewery#west berkshire brewery#
+ep#eA#beer#maggs magnificent mild#
+ep#eA#competition#siba national beer competition#
+ep#eA#year#<2006#
+ep#eA#year#>1994#
+cl#eA#count#2#

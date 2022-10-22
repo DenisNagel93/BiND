@@ -1,0 +1,7 @@
+ev#eA#cut#
+ep#eA#player#brian watts#
+ep#eA#tournament#pga championship#
+ev#eB#cut#
+ep#eB#player#brian watts#
+ep#eB#tournament#us open#
+cl2#eA#lower#eB#

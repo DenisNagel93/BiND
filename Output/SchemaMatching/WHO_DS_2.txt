@@ -1,4 +1,0 @@
-MatchScore: 0.5500499999999999
-HIV testing A(0.5668) -> "HIV (/home/nagel/DataNarrationsEval/Data/RSUD_620.json)
-HIV testing B(0.5333) -> "HIV (/home/nagel/DataNarrationsEval/Data/RSUD_620.json)
-

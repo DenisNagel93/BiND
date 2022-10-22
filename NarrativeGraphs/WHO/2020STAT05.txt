@@ -1,0 +1,7 @@
+ev,event1,DTP3 immunization coverage,
+ev,event2,DTP3 immunization coverage,
+ep,event1,year,2000,
+ep,event2,year,2018,
+nr,event1,lower,event2,
+cl,event1,value,72.0,
+cl,event2,value,86.0,

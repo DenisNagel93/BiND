@@ -1,4 +1,0 @@
-MatchScore: 0.58535
-mortality through Alzheimer's disease A(0.5839) -> "Identification of other research plans in which dementia is integrated (Neuro or neurodegenerative disease)" (/home/nagel/DataNarrationsEval/Data/GDO_q17x2x1_3.json)
-mortality through Alzheimer's disease B(0.5868) -> "Identification of other research plans in which dementia is integrated (Neuro or neurodegenerative disease)" (/home/nagel/DataNarrationsEval/Data/GDO_q17x2x1_3.json)
-

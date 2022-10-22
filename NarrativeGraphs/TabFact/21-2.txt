@@ -1,0 +1,7 @@
+ev#eA#total medal count#
+ep#eA#country#soviet union#
+ep#eA#tournament#1988 winter olympics#
+ev#eB#total medal count#
+ep#eB#country#east germany#
+ep#eB#tournament#1988 winter olympics#
+cl2#eA#higher#eB#

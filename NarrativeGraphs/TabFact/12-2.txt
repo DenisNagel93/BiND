@@ -1,0 +1,4 @@
+ev#eA#place#
+ep#eA#country#france#
+ep#eA#championship#1976 world junior figure skating championship#
+cl#eA#value#<5#

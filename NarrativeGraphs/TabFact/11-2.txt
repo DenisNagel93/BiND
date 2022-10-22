@@ -1,0 +1,5 @@
+ev#eA#score#
+ep#eA#contestant#natalia strelkova#
+ep#eA#championship#1979 world figure skate championship#
+cl#eA#value#112.28#
+cl#eA#min#true#

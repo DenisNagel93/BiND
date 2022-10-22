@@ -1,0 +1,5 @@
+ev,event1,NCD-attributed deaths,
+ev,event2,NCD-attributed deaths,
+ep,event1,year,<2019,
+ep,event2,year,2019,
+nr,event1,lower,event2,

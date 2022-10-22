@@ -1,0 +1,7 @@
+ev,event1,deaths from road traffic injuries,
+ev,event2,deaths from road traffic injuries,
+ep,event1,region,Africa,
+ep,event2,region,Africa,
+ep,event1,year,2019,
+ep,event1,year,2000,
+nr,event1,higher,event2,

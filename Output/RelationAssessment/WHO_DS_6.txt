@@ -1,1 +1,0 @@
-"Life expectancy at age 60 (years)" (582) higher "Life expectancy at age 60 (years)" (583) -> -1.0

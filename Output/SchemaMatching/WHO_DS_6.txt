@@ -1,4 +1,0 @@
-MatchScore: 0.63195
-life expectancy A(0.6705) -> "Life expectancy at age 60 (years)" (/home/nagel/DataNarrationsEval/Data/WHOSIS_000015.json)
-life expectancy B(0.5934) -> "Life expectancy at birth (years)" (/home/nagel/DataNarrationsEval/Data/WHOSIS_000001.json)
-

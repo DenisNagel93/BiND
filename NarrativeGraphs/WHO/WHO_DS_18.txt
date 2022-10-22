@@ -1,0 +1,3 @@
+ev,eA,maternal mortality,
+ev,eB,births attended by skilled health personnel,
+nr,eB,reduces,eA,

@@ -1,4 +1,0 @@
-MatchScore: 0.62085
-death through injury A(0.6407) -> "Cause of death" (/home/nagel/DataNarrationsEval/Data/MORT_200.json)
-death through injury B(0.601) -> "Cause of death" (/home/nagel/DataNarrationsEval/Data/MORT_200.json)
-

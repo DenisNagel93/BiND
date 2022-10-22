@@ -1,6 +1,0 @@
-eA
-(0.6737) -> "Life expectancy at age 60 (years)" (/home/nagel/DataNarrationsEval/Data/WHOSIS_000015.json)
-
-eB
-(0.6737) -> "Life expectancy at age 60 (years)" (/home/nagel/DataNarrationsEval/Data/WHOSIS_000015.json)
-

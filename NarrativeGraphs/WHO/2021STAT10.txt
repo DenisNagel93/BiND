@@ -1,0 +1,7 @@
+ev,event1,life expectancy at birth,
+ev,event2,life expectancy at birth,
+ep,event1,year,2000,
+ep,event2,year,2019,
+cl,event1,value,66.8,
+cl,event2,value,73.3,
+nr,event1,lower,event2,

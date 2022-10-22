@@ -1,0 +1,5 @@
+ev#eA#right ascension (ra)#
+ep#eA#galaxy#ngc 2082#
+ep#eA#galaxy group#dorado group#
+cl#eA#value#4 hour 8 minute 58.1 second#
+cl#eA#min#true#

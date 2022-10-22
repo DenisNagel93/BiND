@@ -1,0 +1,3 @@
+ev,eA,household access to insecticide-treated net,
+ev,eB,prevalence of malaria,
+nr,eA,reduces,eB,

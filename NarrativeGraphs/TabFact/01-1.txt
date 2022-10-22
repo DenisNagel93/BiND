@@ -1,0 +1,12 @@
+ev#eA#in top 5#
+ep#eA#player#tony lema#
+ep#eA#tournament#masters tournament#
+cl#eA#exists#true#
+ev#eB#in top 5#
+ep#eB#player#tony lema#
+ep#eB#tournament#us open#
+cl#eB#exists#true#
+ev#eC#in top 5#
+ep#eC#player#tony lema#
+ep#eC#tournament#open championship#
+cl#eC#exists#true#

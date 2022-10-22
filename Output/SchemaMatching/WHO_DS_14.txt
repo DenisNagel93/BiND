@@ -1,4 +1,0 @@
-MatchScore: 0.64505
-mortality from interpersonal violence B(0.6392) -> "Intimate partner violence prevalence among ever partnered women (%)" (/home/nagel/DataNarrationsEval/Data/RHR_IPV.json)
-mortality from interpersonal violence A(0.6509) -> "Intimate partner violence prevalence among ever partnered women (%)" (/home/nagel/DataNarrationsEval/Data/RHR_IPV.json)
-

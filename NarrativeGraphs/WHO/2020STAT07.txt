@@ -1,0 +1,7 @@
+ev,event1,PCV3 immunization coverage,
+ev,event2,PCV3 immunization coverage,
+ep,event1,year,2002,
+ep,event2,year,2018,
+nr,event1,lower,event2,
+cl,event1,value,4.0,
+cl,event2,value,47.0,

@@ -1,0 +1,5 @@
+ev,event1,Disability Adjusted Life Years,
+ev,event2,Disability Adjusted Life Years,
+ep,event1,year,2012,
+ep,event2,year,<2012,
+nr,event1,lower,event2,

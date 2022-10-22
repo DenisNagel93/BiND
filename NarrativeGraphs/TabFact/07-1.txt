@@ -1,0 +1,6 @@
+ev#eA#win / loss record#
+ep#eA#month#august#
+ep#eA#year#2005#
+ep#eA#team#milwaukee brewers#
+ep#eA#win / loss record#50 / 50#
+cl#eA#count#2#

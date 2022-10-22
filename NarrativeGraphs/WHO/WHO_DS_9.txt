@@ -1,0 +1,7 @@
+ev,eA,under five child mortality,
+ev,eB,under five child mortality,
+nr,eA,higher probability,eB,
+ep,eA,region,Africa,
+ep,eB,region,Europe,
+ep,eA,year,2018,
+ep,eB,year,2018,

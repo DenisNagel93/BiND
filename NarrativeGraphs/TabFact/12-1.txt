@@ -1,0 +1,7 @@
+ev#eA#score#
+ep#eA#contestant#mark cockerell#
+ep#eA#championship#1976 world junior figure skating championship#
+ev#eB#score#
+ep#eB#contestant#patrice macrez#
+ep#eB#championship#1976 world junior figure skating championship#
+cl2#eA#higher#eB#

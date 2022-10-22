@@ -1,0 +1,5 @@
+ev,eA,healthy life expectancy (HALE),
+ev,eB,healthy life expectancy (HALE),
+ep,eA,sex,male,
+ep,eB,sex,female,
+nr,eA,lower,eB,
