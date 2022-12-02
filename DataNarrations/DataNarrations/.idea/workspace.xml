@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DataNarrations:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="088f6901-6e5b-4b13-b2f3-df80168de623" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="250wXXBd7Kna7isgQlntuKjykRZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="DataNarrations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="088f6901-6e5b-4b13-b2f3-df80168de623" name="Default Changelist" comment="" />
+      <created>1644677354853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644677354853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1644761710262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="235" y="190" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1644761710262" />
+    <state x="816" y="355" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1645569203071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="355" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645569203071" />
+    <state x="911" y="354" key="FileChooserDialogImpl" timestamp="1644922266300">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="911" y="354" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1644922266300" />
+    <state width="1483" height="278" key="GridCell.Tab.0.bottom" timestamp="1645568826290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1645568826290" />
+    <state width="1449" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1645550311058" />
+    <state width="1483" height="278" key="GridCell.Tab.0.center" timestamp="1645568826290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1645568826290" />
+    <state width="1449" height="323" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1645550311058" />
+    <state width="1483" height="278" key="GridCell.Tab.0.left" timestamp="1645568826290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1645568826290" />
+    <state width="1449" height="323" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1645550311058" />
+    <state width="1483" height="278" key="GridCell.Tab.0.right" timestamp="1645568826290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1483" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1645568826290" />
+    <state width="1449" height="323" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1645550311058" />
+    <state width="1410" height="344" key="GridCell.Tab.1.bottom" timestamp="1644793233913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1410" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644793233913" />
+    <state width="1410" height="344" key="GridCell.Tab.1.center" timestamp="1644793233913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1410" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644793233913" />
+    <state width="1410" height="344" key="GridCell.Tab.1.left" timestamp="1644793233913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1410" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644793233913" />
+    <state width="1410" height="344" key="GridCell.Tab.1.right" timestamp="1644793233913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1410" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644793233913" />
+    <state x="666" y="100" key="SettingsEditor" timestamp="1645569859620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="100" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645569859620" />
+    <state x="786" y="310" width="672" height="678" key="search.everywhere.popup" timestamp="1645548666342">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="786" y="310" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1645548666342" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataNarrations$Main.ic" NAME="Main Coverage Results" MODIFIED="1644764563385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
