@@ -6,19 +6,19 @@ start_time = time.time()
 from sentence_transformers import SentenceTransformer, util
 model = SentenceTransformer('all-mpnet-base-v2')
 
-events = "path_to_eventlist"
-attributes = "path_to_attributelist"
-facts = "path_to_factlist"
-properties = "path_to_propertylist"
-titles = "path_to_titlelist"
-values = "path_to_valuelist"
+events = "embeddings_path/EmbeddingEvents.txt"
+attributes = "embeddings_path/EmbeddingAttributes.txt"
+facts = "embeddings_path/EmbeddingFacts.txt"
+properties = "embeddings_path/EmbeddingProperties.txt"
+titles = "embeddings_path/EmbeddingTitles.txt"
+values = "embeddings_path/EmbeddingValues.txt"
 
 
-eventOutput = "outputpath_for_attribute_embedding"
-factOutput = "outputpath_for_constraint_embedding"
-titleOutput = "outputpath_for_title_embedding"
-valueOutput = "outputpath_for_value_embedding"
-vtOutput = "outputpath_for_value_to_title_embedding"
+eventOutput = "embeddings_path/EmbeddingScoresReduced.txt"
+factOutput = "embeddings_path/FactEmbeddingScoresReduced.txt"
+titleOutput = "embeddings_path/TitleEmbeddingScoresReduced.txt"
+valueOutput = "embeddings_path/ValueEmbeddingScoresReduced.txt"
+vtOutput = "embeddings_path/VTEmbeddingScoresReduced.txt"
 
 e = open(events,'r')
 eventList = []
