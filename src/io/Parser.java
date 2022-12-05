@@ -65,7 +65,6 @@ public class Parser {
                     } else {
                         currentRecord.add(line.trim().replaceAll("\"",""));
                     }
-                   //currentRecord.add(line.trim().split(",")[0].replaceAll("\"",""));
                 }
             }
         }
@@ -79,7 +78,6 @@ public class Parser {
         while ((line = br.readLine()) != null) {
             ArrayList<String> lineElements = new ArrayList<>();
             String[] subString = line.split(delim);
-            //String[] subString = line.split(",");
             String entry = "";
             boolean append = false;
             for (String s : subString) {

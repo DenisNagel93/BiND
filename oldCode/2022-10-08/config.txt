@@ -1,0 +1,6 @@
+narratives_path="path to narrative graphs"
+data_path="path to data sets (csv-files)"
+groundtruth_path="path to groundtruth files"
+output_path="path to output files"
+embeddings_path="path to embedding files"
+csv_delimiter="delimiter for used csv files"

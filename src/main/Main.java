@@ -9,6 +9,11 @@ public class Main {
 
     static String path;
 
+    /*public static void main(String[] args) throws IOException {
+        CausalityAssessment.computeFullALift();
+        CausalityAssessment.printOut();
+    }*/
+
     public static void main(String[] args) throws IOException, URISyntaxException {
         path = Main.class.getProtectionDomain().getCodeSource().getLocation().toURI().getPath();
         String[] sub = path.split("/");

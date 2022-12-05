@@ -27,7 +27,6 @@ public class EventRefinement {
         this.titleEmbedding = titleEmbedding;
         this.tPM = tPM;
         this.tEM = tEM;
-        //System.out.println("#EventMatches: " + em.size());
         for (int i = 0; i < em.size();i++) {
             EventMatch s = em.get(i);
             if (s.getA().isPlaceholder()) {
@@ -54,7 +53,6 @@ public class EventRefinement {
                 if (valueEmbedding.getSimilarityScores().get(ep.getNodeB().getLabel()) != null) {
                     if (valueEmbedding.getSimilarityScores().get(ep.getNodeB().getLabel()).get(a.getTitle().replace("\"", "")) != null) {
                         double toCompare = valueEmbedding.getSimilarityScores().get(ep.getNodeB().getLabel()).get(a.getTitle().replace("\"", ""));
-                        //if (toCompare >= t && toCompare >= max) {
                         if (toCompare >= max) {
                             max = toCompare;
                             maxA = a;
@@ -105,8 +103,7 @@ public class EventRefinement {
         if (titleEmbedding.getSimilarityScores().get(ep.getNodeB().getLabel()) != null) {
             if (titleEmbedding.getSimilarityScores().get(ep.getNodeB().getLabel()).get(d.getTitle()) != null) {
                 Attribute ph = new Attribute(d.getTitle() + "_Title", d);
-                PropertyMatch pm = new PropertyMatch(ep, ph, titleEmbedding.getSimilarityScores().get(ep.getNodeB().getLabel()).get(d.getTitle()));
-                return pm;
+                return new PropertyMatch(ep, ph, titleEmbedding.getSimilarityScores().get(ep.getNodeB().getLabel()).get(d.getTitle()));
             }
         }
         return null;
@@ -152,23 +149,6 @@ public class EventRefinement {
         return matches;
     }
 
-    /*public HashMap<EventProperty,PropertyMatch> collectPropertyMatchesOld(EventMatch s) {
-        HashMap<EventProperty,PropertyMatch> matches = new HashMap<>();
-        for (EventProperty ep : s.getE().getProperties()) {
-            if (!s.getIntegrated().contains(ep)) {
-                PropertyMatch p = findPropertyMatch(ep,s.getD());
-                if (p == null) {
-                    p = checkTitle(ep,s.getD());
-                    if (p == null) {
-                        s.setRefinedSuccessful(false);
-                    }
-                }
-                matches.put(ep,p);
-            }
-        }
-        return matches;
-    }*/
-
     public HashMap<FactualRelation,FactMatch> collectFactMatches(EventMatch s) {
         HashMap<FactualRelation,FactMatch> matches = new HashMap<>();
         for (EventProperty ep : s.getE().getProperties()) {
@@ -190,7 +170,6 @@ public class EventRefinement {
             //Full embeddings needed
             if (factEmbedding.getSimilarityScores().get(rel.getLabel()).get(a.getTitle().replace("\"","")) != null) {
                 double toCompare = factEmbedding.getSimilarityScores().get(rel.getLabel()).get(a.getTitle().replace("\"",""));
-                //if (toCompare >= t && toCompare >= max) {
                 if (toCompare >= max) {
                     max = toCompare;
                     bestMatch = new PropertyMatch(rel,a,toCompare);

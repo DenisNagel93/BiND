@@ -25,12 +25,10 @@ public class LoadNarratives {
         ops.add("not ");
         for (String op : ops) {
             if (in.startsWith(op)) {
-                in.replace(op,"").trim();
                 return op.trim();
             }
         }
         if (in.contains(" or ")) {
-            in.replace(" or ",":").trim();
             return "or";
         }
         return "";
@@ -60,7 +58,7 @@ public class LoadNarratives {
                         n.addNarrativeRelation(nr);
                     } else {
                         String op = checkForOperator(line.get(3));
-                        String value = "";
+                        String value;
                         if (op.equals("<") || op.equals(">") || op.equals("not")) {
                             value = line.get(3).replaceFirst(op,"");
                         } else {

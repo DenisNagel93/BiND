@@ -21,12 +21,4 @@ public class FactualBinding {
     public Claim getCl() {
         return cl;
     }
-
-    public InstanceMatch getIm() {
-        return im;
-    }
-
-    public void setValid(String valid) {
-        isValid = valid;
-    }
 }

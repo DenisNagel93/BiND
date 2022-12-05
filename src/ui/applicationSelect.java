@@ -1,52 +1,57 @@
 package ui;
 
 import evaluation.EvaluationTest;
+import execution.Pipeline;
+import io.Vars;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.Scanner;
 
 public class applicationSelect {
 
-    static String configFile;
-
-    static String dataPath;
-    static String narrativePath;
-    static String outputPath;
-    static String embeddingPath;
-    static String groundTruthPath;
-
-    static String delim;
+    static File configFile;
 
     public static void selectOption(String path) throws IOException {
-        configFile = path + "/config.txt";
-        initBiND();
+        configFile = new File(path + "/config.txt");
+        Vars.initBiND(configFile);
+        long loadStarttime = System.nanoTime();
+        Vars.loadInput(new File(Vars.getDataPath()), new File(Vars.getNarrativePath()),Vars.getDelim());
+        Vars.loadEmbeddings(",");
+        long loadRuntime = System.nanoTime() - loadStarttime;
+        System.out.println("Load Time: " + (double)loadRuntime / 1000000000 + " seconds");
         Scanner sc = new Scanner(System.in);
+        System.out.println();
         System.out.println("Select Application Mode:");
-        System.out.println("--0: Run BiND (complete)");
-        System.out.println("--1: Run BiND (partially)");
-        System.out.println("--2: Run Ablation Study");
+        System.out.println();
+        System.out.println("--0: Run BiND");
+        System.out.println("--------Evaluation--------");
+        System.out.println("--1: Complete Pipeline");
+        System.out.println("--2: Partial Execution");
         System.out.println("-------------------------");
-        System.out.println("--3: Configure BiND");
+        System.out.println("--3: Configure BiND (Currently not implemented)");
         System.out.println("--4: Prepare Embeddings");
+        System.out.println("--5: Exit");
         String input = sc.nextLine();
         switch (input) {
             case("0"):
-                selectEvaluationMode("ra",delim);
+                Pipeline.runBiND();
                 break;
             case("1"):
+                selectEvaluationMode("ra");
+                break;
+            case("2"):
                 selectPartialExecution();
                 break;
-            case("2"):;
-                break;
-            case("3"):;
+            case("3"):
                 break;
             case("4"):
-                EvaluationTest.prepareEmbedding(delim);
+                Vars.prepareEmbedding(Vars.getDelim());
+                selectOption(path);
                 break;
+            case("5"):
+                return;
             default:
                 System.out.println("Please Select a Mode");
                 selectOption(path);
@@ -54,12 +59,7 @@ public class applicationSelect {
         sc.close();
     }
 
-    public static void selectEvaluationMode(String opt,String delim) throws IOException {
-        long loadStarttime = System.nanoTime();
-        EvaluationTest.loadInput(new File(dataPath), new File(narrativePath),delim);
-        EvaluationTest.loadEmbeddings(",");
-        long loadRuntime = System.nanoTime() - loadStarttime;
-        System.out.println("Load Time: " + (double)loadRuntime / 1000000000 + " seconds");
+    public static void selectEvaluationMode(String opt) throws IOException {
         double tEM,tPM,tRA;
         Scanner sc = new Scanner(System.in);
         System.out.println("Select Evaluation Mode:");
@@ -103,7 +103,7 @@ public class applicationSelect {
                             t = t.subtract(delta);
                         }
                         break;
-                    default:;
+                    default:
                 }
                 break;
             case ("1"):
@@ -136,12 +136,12 @@ public class applicationSelect {
                         tRA = Double.parseDouble(sc.nextLine());
                         EvaluationTest.relationAssessmentEvaluation(tEM,tPM,tRA,true);
                         break;
-                    default:;
+                    default:
                 }
                 break;
             default:
                 System.out.println("Please Select a Mode");
-                selectEvaluationMode(opt,delim);
+                selectEvaluationMode(opt);
         }
         sc.close();
     }
@@ -155,68 +155,17 @@ public class applicationSelect {
         String input = sc.nextLine();
         switch (input) {
             case("0"):
-                selectEvaluationMode("em",delim);
+                selectEvaluationMode("em");
                 break;
             case("1"):
-                selectEvaluationMode("pm",delim);
+                selectEvaluationMode("pm");
                 break;
             case("2"):
-                selectEvaluationMode("im",delim);
+                selectEvaluationMode("im");
                 break;
             default:
                 System.out.println("Please Select an Option");
         }
         sc.close();
     }
-
-    public static void initBiND() throws IOException {
-        BufferedReader br = new BufferedReader(new FileReader(configFile));
-        String line;
-        while ((line = br.readLine()) != null) {
-            String[] sub = line.split("=");
-            switch (sub[0]) {
-                case "narratives_path": narrativePath = sub[1];
-                    break;
-                case "data_path": dataPath = sub[1];
-                    break;
-                case "groundtruth_path": groundTruthPath = sub[1];
-                    break;
-                case "output_path": outputPath = sub[1];
-                    break;
-                case "embeddings_path": embeddingPath = sub[1];
-                    break;
-                case "csv_delimiter": delim = sub[1];
-                    break;
-                default:;
-            }
-        }
-        br.close();
-    }
-
-    public static String getDataPath () {
-        return dataPath;
-    }
-
-    public static String getNarrativePath() {
-        return narrativePath;
-    }
-
-    public static String getOutputPath() {
-        return outputPath;
-    }
-
-    public static String getEmbeddingPath() {
-        return embeddingPath;
-    }
-
-    public static String getGroundTruthPath() {
-        return groundTruthPath;
-    }
 }
-
-
-//EvaluationTest.testEvalPipeline(path);
-//AblationStudy.noEventMatch(path);
-//AblationStudy.propertyMatchEvaluation(path, -1.0);
-//AblationStudy.instanceMatchEvaluation(path, -1.0);
-//AblationStudy.relationAssessmentEvaluation(path, -1.0);

@@ -61,7 +61,7 @@ public class RelationAssessment {
             if (j.getJoinMatches().size() == 0) {
                 return null;
             }
-            cp = new ColumnPair(nr,eA.getA(), eB.getA(), j,iA,iB);
+            cp = new ColumnPair(eA.getA(), eB.getA(), j,iA,iB);
             return new RelationScore(nr,cp,computeMetric(nr,cp,j));
         }
         return null;
@@ -142,7 +142,7 @@ public class RelationAssessment {
         double higherPercentage = 0.0;
         double equalPercentage = 0.0;
 
-        double result = 0.0;
+        double result;
 
         if (valid > 0) {
             if (cp.getRelevantA().size() - errors != 0.0) {

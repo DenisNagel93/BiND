@@ -1,6 +1,9 @@
-narratives_path="path to narrative graphs"
-data_path="path to data sets (csv-files)"
-groundtruth_path="path to groundtruth files"
-output_path="path to output files"
-embeddings_path="path to embedding files"
-csv_delimiter="delimiter for used csv files"
+narratives_path='path to narrative graph files'
+data_path='path to data sets (csv/json)'
+groundtruth_path='path to ground truth files (needed only for evaluation)'
+output_path='path where output files are created'
+embeddings_path='path where SBERT results are stored'
+csv_delimiter='delimiter used in csv files'
+event_type_matching_threshold=0.65
+constraint_matching_threshold=0.6
+relation_assessment_threshold=0.0

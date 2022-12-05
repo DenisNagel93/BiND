@@ -40,6 +40,20 @@ public class Attribute {
                 || title.contains("Percentage") || title.contains("Rate ") || title.contains("(per ");
     }
 
+    public double computeAvg() {
+        double sum = 0.0;
+        int count = 0;
+        for (Record r : this.ds.getRecords()) {
+            try {
+                sum = sum + Double.parseDouble(r.getEntry(this));
+                count++;
+            } catch (Exception e) {
+                return 0.0;
+            }
+        }
+        return sum / (double)count;
+    }
+
     //----------Getter/Setter----------
 
     public String getTitle() {

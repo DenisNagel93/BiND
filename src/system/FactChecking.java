@@ -5,7 +5,6 @@ import matches.EventMatch;
 import matches.FactualBinding;
 import matches.InstanceMatch;
 import narrativeComponents.Claim;
-import narrativeComponents.Entity;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -400,7 +399,4 @@ public class FactChecking {
         return results;
     }
 
-    public HashSet<FactualBinding> getResultSet() {
-        return resultSet;
-    }
 }

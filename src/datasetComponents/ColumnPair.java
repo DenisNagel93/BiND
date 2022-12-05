@@ -1,7 +1,6 @@
 package datasetComponents;
 
 import matches.InstanceMatch;
-import narrativeComponents.NarrativeRelation;
 import system.Helper;
 
 import java.util.ArrayList;
@@ -20,7 +19,7 @@ public class ColumnPair {
     double avgA,avgB;
 
     //Constructor for two columns of different data sets (new)
-    public ColumnPair(NarrativeRelation nr, Attribute a, Attribute b, Join j, InstanceMatch imA, InstanceMatch imB) {
+    public ColumnPair(Attribute a, Attribute b, Join j, InstanceMatch imA, InstanceMatch imB) {
         this.columnA = new ArrayList<>();
         this.columnB = new ArrayList<>();
         this.relevantA = new HashSet<>();

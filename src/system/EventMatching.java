@@ -4,6 +4,7 @@ import datasetComponents.Attribute;
 import datasetComponents.DataSet;
 import evaluation.EvaluationTest;
 import io.Embedding;
+import io.Vars;
 import matches.EventMatch;
 import narrativeComponents.Event;
 
@@ -33,7 +34,7 @@ public class EventMatching {
         ArrayList<EventMatch> matches = new ArrayList<>();
         for (ArrayList<String> line : attributeEmbedding.getRankedEmbedding().get(e.getCaption())) {
             if (Double.parseDouble(line.get(1)) >= t) {
-                for (DataSet d : EvaluationTest.atrIndex.get(line.get(0))) {
+                for (DataSet d : Vars.atrIndex.get(line.get(0))) {
                     if (!matchedData.contains(d)) {
                         for (Attribute a : d.getAttributes()) {
                             if (a.getTitle().replace("\"", "").equals(line.get(0))) {
@@ -56,7 +57,7 @@ public class EventMatching {
 
     public void setPlaceholderMatches(double t) {
         for (ArrayList<String> line : titleEmbedding.getRankedEmbedding().get(e.getCaption())) {
-            DataSet d = EvaluationTest.titleIndex.get(line.get(0));
+            DataSet d = Vars.titleIndex.get(line.get(0));
             if (Double.parseDouble(line.get(1)) >= t) {
                 if (!matchedData.contains(d)) {
                     Attribute ph = new Attribute(e.getCaption() + "_Placeholder",d,true);

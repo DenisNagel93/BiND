@@ -35,10 +35,7 @@ public class Entity extends Node {
     }
 
     public boolean hasOperator() {
-        if (this.operator == null) {
-            return false;
-        }
-        return true;
+        return this.operator != null;
     }
 
     //--------Getter/Setter--------
@@ -65,10 +62,6 @@ public class Entity extends Node {
 
     public void setOperator(String operator) {
         this.operator = operator;
-    }
-
-    public void setValue(String value) {
-        this.value = value;
     }
 
 }

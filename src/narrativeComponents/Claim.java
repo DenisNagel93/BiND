@@ -33,8 +33,4 @@ public class Claim extends Edge {
     public void setBinary(boolean binary) {
         isBinary = binary;
     }
-
-    public void setUnary(boolean unary) {
-        isUnary = unary;
-    }
 }

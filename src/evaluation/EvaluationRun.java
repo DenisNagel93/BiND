@@ -1,6 +1,7 @@
 package evaluation;
 
 import datasetComponents.DataSet;
+import io.Vars;
 import matches.EventMatch;
 import matches.FactualBinding;
 import matches.NarrativeBinding;
@@ -8,7 +9,6 @@ import narrativeComponents.Claim;
 import narrativeComponents.Event;
 import narrativeComponents.Narrative;
 import narrativeComponents.NarrativeRelation;
-import ui.applicationSelect;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -132,8 +132,8 @@ public class EvaluationRun {
     }
 
     public void loadGroundTruthBindings() throws IOException {
-        for (File entry : new File(applicationSelect.getGroundTruthPath()).listFiles()) {
-            Narrative n = EvaluationTest.narrativeTitleIndex.get(entry.getName());
+        for (File entry : new File(Vars.getGroundTruthPath()).listFiles()) {
+            Narrative n = Vars.narrativeTitleIndex.get(entry.getName());
             HashMap<Claim,String> cls = new HashMap<>();
             HashMap<NarrativeRelation,String> nrs = new HashMap<>();
 
@@ -170,7 +170,7 @@ public class EvaluationRun {
 
     public HashMap<String,HashMap<String, HashSet<String>>> loadGroundTruth() throws IOException {
         HashMap<String,HashMap<String,HashSet<String>>> correctMatches = new HashMap<>();
-        for (File entry : new File(applicationSelect.getGroundTruthPath()).listFiles()) {
+        for (File entry : new File(Vars.getGroundTruthPath()).listFiles()) {
             BufferedReader br = new BufferedReader(new FileReader(entry));
             String line;
             while ((line = br.readLine()) != null) {
@@ -480,18 +480,6 @@ public class EvaluationRun {
             scores.put(gt,f1);
         }
         return scores;
-    }
-
-    public HashMap<String,Double> getAvgPrecision() {
-        return avgPrecision;
-    }
-
-    public double getAvgReduction() {
-        return avgReduction;
-    }
-
-    public HashMap<String, HashMap<String, HashSet<String>>> getCorrectMatches() {
-        return correctMatches;
     }
 
 }

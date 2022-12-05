@@ -3,7 +3,6 @@ package matches;
 import datasetComponents.Attribute;
 import datasetComponents.DataSet;
 import datasetComponents.Record;
-import narrativeComponents.Event;
 import narrativeComponents.EventProperty;
 import narrativeComponents.FactualRelation;
 
@@ -39,9 +38,6 @@ public class InstanceMatch implements Comparable<InstanceMatch> {
         HashSet<Record> result = new HashSet<>(d.getRecords());
         for (EventProperty ep : this.getE().getE().getProperties()) {
             if (!this.getE().getIntegrated().contains(ep)) {
-                //System.out.println("getRelRec");
-                //System.out.println("Ev: " + this.getE().getE().getCaption());
-                //System.out.println("Data: " + this.getE().getD().getTitle());
                 //Fix later
                 if (this.getE().getPm().get(ep) != null) {
                     HashSet<Record> temp = findRecords(this.getE().getPm().get(ep));
@@ -67,17 +63,12 @@ public class InstanceMatch implements Comparable<InstanceMatch> {
         }
         if (result.size() == 0) {
             this.emptyMatch = true;
-            //isReduced = false;
         }
         return result;
     }
 
     public HashSet<Record> findRecords(PropertyMatch p) {
         HashSet<Record> result = new HashSet<>();
-        //System.out.println("Ev: " + p.getE().getCaption());
-        //System.out.println("Rel: " + p.getEP().getLabel());
-        //System.out.println("Atr: " + p.getA().getTitle());
-        //System.out.println("Data: " + p.getDS().getTitle());
         for (Record r : p.getDS().getRecords()) {
             try {
                 if (p.getEP().getNodeB().hasOperator()) {
@@ -182,10 +173,6 @@ public class InstanceMatch implements Comparable<InstanceMatch> {
 
     public void setPropertyReduction(HashMap<PropertyMatch, HashSet<Record>> propertyReduction) {
         this.propertyReduction = propertyReduction;
-    }
-
-    public void setReduced(boolean reduced) {
-        isReduced = reduced;
     }
 
     @Override
