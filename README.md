@@ -1,5 +1,7 @@
 # BiND
 
+![System Overview](/BiND-Pipeline.png)
+
 ### Data Sets
 
 The data sets used to evaluate BiND are available through the following links:
